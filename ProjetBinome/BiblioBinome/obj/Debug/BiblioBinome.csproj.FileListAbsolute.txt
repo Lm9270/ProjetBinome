@@ -1,0 +1,12 @@
+C:\Users\lmoriconi\Desktop\ProjetBinome\BiblioBinome\obj\Debug\BiblioBinome.csproj.AssemblyReference.cache
+C:\Users\lmoriconi\Desktop\ProjetBinome\BiblioBinome\obj\Debug\BiblioBinome.csproj.CoreCompileInputs.cache
+C:\Users\lmoriconi\Desktop\ProjetBinome\BiblioBinome\bin\Debug\BiblioBinome.dll
+C:\Users\lmoriconi\Desktop\ProjetBinome\BiblioBinome\bin\Debug\BiblioBinome.pdb
+C:\Users\lmoriconi\Desktop\ProjetBinome\BiblioBinome\obj\Debug\BiblioBinome.dll
+C:\Users\lmoriconi\Desktop\ProjetBinome\BiblioBinome\obj\Debug\BiblioBinome.pdb
+E:\ProjetBinome\BiblioBinome\bin\Debug\BiblioBinome.dll
+E:\ProjetBinome\BiblioBinome\bin\Debug\BiblioBinome.pdb
+E:\ProjetBinome\BiblioBinome\obj\Debug\BiblioBinome.csproj.AssemblyReference.cache
+E:\ProjetBinome\BiblioBinome\obj\Debug\BiblioBinome.csproj.CoreCompileInputs.cache
+E:\ProjetBinome\BiblioBinome\obj\Debug\BiblioBinome.dll
+E:\ProjetBinome\BiblioBinome\obj\Debug\BiblioBinome.pdb
